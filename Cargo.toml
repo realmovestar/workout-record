@@ -1,0 +1,5 @@
+[package]
+name = "wrp"
+version = "0.1.0"
+edition = "2021"
+description = "운동한 기록을 분석할 수 있게 csv 로 출력한다."
